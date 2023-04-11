@@ -1,4 +1,10 @@
 
+Tue Apr 11 2023 16:42:19 GMT-0400 (Eastern Daylight Time) | {"appName":"Mm","sid":"D123456","appVersion":"1"}: {"clientMessage":"This is logging test!","requestId":"","clientTimestamp":"2023-04-11T20:42:19.688Z"}
+
+
+Mon Apr 10 2023 14:45:00 GMT-0400 (EDT) | {"appName":"Mm","sid":"D123456","appVersion":"1"}: {"clientMessage":{"stack":"ReferenceError: unknownvar is not defined\n    at clickhandler (http://localhost:8080/:14:5)\n    at HTMLButtonElement.onclick (http://localhost:8080/:20:34)","message":"unknownvar is not defined","name":"ReferenceError","logData":{"errorMsg":"Uncaught ReferenceError: unknownvar is not defined","url":"http://localhost:8080/","line":14,"column":5}},"requestId":"","clientTimestamp":"2023-04-10T18:45:00.837Z"}
+
+********************************
 
 a_LogOnClientAndServer.js 
 
