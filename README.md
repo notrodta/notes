@@ -1,5 +1,6 @@
 
 Fri Apr 14 2023 10:05:37 GMT-0400 (Eastern Daylight Time) | GetUsers.js: {"clientMessage":"Something went wrong: Cannot query field \"test\" on type \"User\".","requestId":"{\"appName\":\"Market\",\"sid\":\"D123456\",\"appVersion\":\"1\"}","clientTimestamp":"2023-04-14T14:05:37.365Z"}
+
 Fri Apr 14 2023 10:05:48 GMT-0400 (Eastern Daylight Time) | Form.js: {"clientMessage":"adding user!","requestId":"{\"appName\":\"Market\",\"sid\":\"D123456\",\"appVersion\":\"1\"}","clientTimestamp":"2023-04-14T14:05:48.180Z"}
 
 
